@@ -6,7 +6,7 @@ Hi, Leticia here!
 
 - I’m interested in Public Health and next-gen Government Technology 🏥 🏛️
 
-- My favorite areas in Health are Genetics, Epidemiology and Immunology 🧬
+- My favorite areas in Health are Genetics, Epidemiology, Immunology and Microbiology (it's a *lot* to study) 🧬
 
 - I'm perfecting my Python and R skills and trying to find time to learn Julia 🌱
 
