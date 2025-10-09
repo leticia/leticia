@@ -1,16 +1,16 @@
-Hi, Leticia here!
+Hello, Leticia here! 👋
 
-- I’m a Biomedical Informatics student and software developer from Brazil 📚 👩‍💻 🇧🇷
+I’m a Biomedical Informatics undergrad student (UFCSPA) and software developer from Brazil looking to collaborate on projects related to Bioinformatics. 💻 🧬 🇧🇷
 
-- I’m looking to collaborate on anything related to Bioinformatics, Epidemiological Surveillance and data analysis, in general 📈
+My favorite areas in Health are Genetics, Immunology and Women's Health (it's a *lot* to study). My goal is to study Immunogenetics in endometriosis, applying Bioinformatics approaches. 🧪🔬
 
-- I’m interested in Public Health and next-gen Government Technology 🏥 🏛️
+I'm also a software developer with a background in both public and private sectors. I'm familiar with Python, Ruby, Shell Scripting, different programming paradigms and tools. Always open to collaborate on meaningful projects at the intersection of Biology and Technology. 👩‍💻
 
-- My favorite areas in Health are Genetics, Epidemiology and Immunology (it's a *lot* to study) 🧬
+Some other interests of mine:
 
-- I'm perfecting my Python and R skills and trying to find time to learn Julia 🌱
-
-- I worked in both private and public sectors, in different Technology domains 💻
+- Public Health and next-gen Government Technology 🏥 🏛️
+- Statistics and Mathematics in the context of Machine Learning (I'm afraid I cannot say I'm gifted at these areas) 📈 📊
+- Epistemology 🌱
 
 I'm not a heavy social media user, but, if you feel the need to contact me, you can do it at [hi@lele.rocks](mailto:hi@lele.rocks) - it's an email, I know. 📬
 
