@@ -9,7 +9,7 @@ I'm also a software developer with a background in both public and private secto
 Some other interests of mine:
 
 - Public Health and next-gen Government Technology 🏥 🏛️
-- Statistics and Mathematics in the context of Machine Learning (I'm afraid I cannot say I'm gifted at these areas) 📈 📊
+- Statistics and Mathematics in the context of Machine Learning (I'm afraid I cannot say I'm particularly gifted at these areas 😅) 📈 📊
 - Epistemology 🌱
 
 I'm not a heavy social media user, but, if you feel the need to contact me, you can do it at [hi@lele.rocks](mailto:hi@lele.rocks) - it's an email, I know. 📬
