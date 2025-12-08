@@ -12,8 +12,6 @@ Some other interests of mine:
 - Statistics and Mathematics in the context of Machine Learning (I'm afraid I cannot say I'm particularly gifted at these areas 😅) 📈 📊
 - Epistemology 🌱
 
-I'm not a heavy social media user, but, if you feel the need to contact me, you can do it at [hi@lele.rocks](mailto:hi@lele.rocks) - it's an email, I know. 📬
-
 <!---
 leticia/leticia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
